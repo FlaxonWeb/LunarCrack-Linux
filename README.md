@@ -22,3 +22,11 @@ Run file:
 ```
 ./account.sh
 ```
+
+# How to Get UUID
+
+- open namemc.com
+- select skin and Click on it 
+- click skin name
+- copy UUID
+  
