@@ -8,7 +8,7 @@ if [[ -z "$username" || -z "$uuid" ]]; then
   exit 1
 fi
 
-uuid_clean=${uuid//-/}
+
 
 lunar_path="$HOME/.var/app/com.lunarclient.LunarClient/.lunarclient/settings/game"
 accounts_file="$lunar_path/accounts.json"
